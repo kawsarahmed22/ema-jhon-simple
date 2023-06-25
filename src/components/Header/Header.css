@@ -16,3 +16,6 @@
     color: white;
     margin-left: 30px;
 }
+.header ul li a:hover {
+    color: orange;
+}
